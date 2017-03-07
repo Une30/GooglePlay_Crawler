@@ -4,6 +4,7 @@ public class Application {
 
 	private List<Version> versions;
 	private string name;
+	private string category;
 	private string package_name;
 	private string description;
 	private float star_rate;
